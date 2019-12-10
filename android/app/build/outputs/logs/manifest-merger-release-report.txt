@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-siri-wave-view] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:@react-native-community_async-storage] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-sound] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-audio] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-audio/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-tts] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-tts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r241213] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/android-jsc-r241213.aar/8cb2f904428beb9f77d441dcf02b1c1d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/9631d059c25c062798f91e4be9245448/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/776135eaf3db4ad1aa38cb6409dcf833/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/60b01e1358e9f02abe01720967ce32d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a0e4a92d5676b284da038d2c46f62324/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9693cfb9b64a864d99c24b10d9e4bd09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ca51ecfe5ed9ca9c9163586869d2e0b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/569e4b1e414e0eef8ab5b8a9f554a374/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b22cc3b17fe1b9219219f7846213d9b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21f8511242d8356ec57e5526dade96a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb82e8f208c6d4b42f3b37bb7c9518f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a2f07a99694bbc2a2029e50d864ad904/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3579b4678e11ac5c74661f37125e0873/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f51aab168572db0cf647eba00720169/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcd69ea27cad004b075d6cf547de0c92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4de0ef1f1ae8a0e3509f3836411ca4b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b76a2d62306112a329b478fcc16bc2b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7ccf6fd3c4a5ed33c723c944766d6a27/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce95399be9cd251cd9dad66c0d5d53f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc05f332193935704e2472ae57bff8c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/79492d5cc011d26beca39aa49329a0cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/756e5e8b8302e1528bfbe6d85a7aaa3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f770e582596e2c8c5d60d9aebc589f88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/266e8eb24c1f94d20e4af47fd17a1cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/17f2efd8fa4260dd4358c95d2ab34778/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0b476fdc73f0f6ca06df4c1a337365a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c5a49bdaff6a0217eefe1229dce0dcec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a7a98eb243c66eca0be2cabf2497004e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77eb10f034601e4f68e5035d41e90788/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5477843e35e47d136f8bbcfbd143b2af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/dd6497c7adbe1aaa02c305b1ca357a72/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/12aebe658b6ed53800fe753271d7ab51/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0f983fac44c17606771e30b11a7a6a48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa0ead28e00a339855bd9a860f781520/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/34e977b082f7854cf1af06d353e263e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/4088a13cf6fbe6a9b0a6ee279667d381/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/851279844b99c40bc2c3893f2570bf01/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:70-116
+	android:versionCode
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:10:5-30:19
+MERGED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.59.9] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/9631d059c25c062798f91e4be9245448/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/9631d059c25c062798f91e4be9245448/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7ccf6fd3c4a5ed33c723c944766d6a27/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7ccf6fd3c4a5ed33c723c944766d6a27/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/4088a13cf6fbe6a9b0a6ee279667d381/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/4088a13cf6fbe6a9b0a6ee279667d381/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:14:7-46
+	android:icon
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:15:7-34
+		REJECTED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:17:7-38
+	tools:replace
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:16:7-42
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.tcc.MainActivity
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:18:7-28:18
+	android:screenOrientation
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:22:9-45
+	android:label
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-sdk
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-siri-wave-view] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-siri-wave-view] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:siriwaveview] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-siri-wave-view/android/SIRIWaveView/siriwaveview/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sound] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-audio] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-audio/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-audio/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-tts] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-tts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tts] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-tts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /home/alanribeiro/Área de Trabalho/tcc-react-native/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/android-jsc-r241213.aar/8cb2f904428beb9f77d441dcf02b1c1d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/android-jsc-r241213.aar/8cb2f904428beb9f77d441dcf02b1c1d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/9631d059c25c062798f91e4be9245448/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/9631d059c25c062798f91e4be9245448/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/776135eaf3db4ad1aa38cb6409dcf833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/776135eaf3db4ad1aa38cb6409dcf833/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/60b01e1358e9f02abe01720967ce32d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/60b01e1358e9f02abe01720967ce32d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a0e4a92d5676b284da038d2c46f62324/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a0e4a92d5676b284da038d2c46f62324/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9693cfb9b64a864d99c24b10d9e4bd09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9693cfb9b64a864d99c24b10d9e4bd09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ca51ecfe5ed9ca9c9163586869d2e0b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ca51ecfe5ed9ca9c9163586869d2e0b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/569e4b1e414e0eef8ab5b8a9f554a374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/569e4b1e414e0eef8ab5b8a9f554a374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b22cc3b17fe1b9219219f7846213d9b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b22cc3b17fe1b9219219f7846213d9b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21f8511242d8356ec57e5526dade96a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21f8511242d8356ec57e5526dade96a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb82e8f208c6d4b42f3b37bb7c9518f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb82e8f208c6d4b42f3b37bb7c9518f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a2f07a99694bbc2a2029e50d864ad904/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a2f07a99694bbc2a2029e50d864ad904/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3579b4678e11ac5c74661f37125e0873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3579b4678e11ac5c74661f37125e0873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f51aab168572db0cf647eba00720169/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f51aab168572db0cf647eba00720169/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcd69ea27cad004b075d6cf547de0c92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bcd69ea27cad004b075d6cf547de0c92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4de0ef1f1ae8a0e3509f3836411ca4b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4de0ef1f1ae8a0e3509f3836411ca4b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b76a2d62306112a329b478fcc16bc2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b76a2d62306112a329b478fcc16bc2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7edeb501038d6829ca4eb5e15105d538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7ccf6fd3c4a5ed33c723c944766d6a27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7ccf6fd3c4a5ed33c723c944766d6a27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce95399be9cd251cd9dad66c0d5d53f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce95399be9cd251cd9dad66c0d5d53f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc05f332193935704e2472ae57bff8c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc05f332193935704e2472ae57bff8c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/79492d5cc011d26beca39aa49329a0cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/79492d5cc011d26beca39aa49329a0cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/756e5e8b8302e1528bfbe6d85a7aaa3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/756e5e8b8302e1528bfbe6d85a7aaa3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f770e582596e2c8c5d60d9aebc589f88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f770e582596e2c8c5d60d9aebc589f88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/266e8eb24c1f94d20e4af47fd17a1cf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/266e8eb24c1f94d20e4af47fd17a1cf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/17f2efd8fa4260dd4358c95d2ab34778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/17f2efd8fa4260dd4358c95d2ab34778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0b476fdc73f0f6ca06df4c1a337365a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0b476fdc73f0f6ca06df4c1a337365a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c5a49bdaff6a0217eefe1229dce0dcec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c5a49bdaff6a0217eefe1229dce0dcec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a7a98eb243c66eca0be2cabf2497004e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a7a98eb243c66eca0be2cabf2497004e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77eb10f034601e4f68e5035d41e90788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77eb10f034601e4f68e5035d41e90788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5477843e35e47d136f8bbcfbd143b2af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5477843e35e47d136f8bbcfbd143b2af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/dd6497c7adbe1aaa02c305b1ca357a72/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/dd6497c7adbe1aaa02c305b1ca357a72/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/12aebe658b6ed53800fe753271d7ab51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/12aebe658b6ed53800fe753271d7ab51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0f983fac44c17606771e30b11a7a6a48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0f983fac44c17606771e30b11a7a6a48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa0ead28e00a339855bd9a860f781520/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/aa0ead28e00a339855bd9a860f781520/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/34e977b082f7854cf1af06d353e263e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/34e977b082f7854cf1af06d353e263e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/4088a13cf6fbe6a9b0a6ee279667d381/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/4088a13cf6fbe6a9b0a6ee279667d381/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/851279844b99c40bc2c3893f2570bf01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alanribeiro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/851279844b99c40bc2c3893f2570bf01/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alanribeiro/Área de Trabalho/tcc-react-native/android/app/src/main/AndroidManifest.xml
